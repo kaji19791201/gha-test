@@ -1,4 +1,4 @@
-name: Test app
+name: Dev Deploy entry-booking
 
 on:
   workflow_dispatch:

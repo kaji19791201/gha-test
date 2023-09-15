@@ -1,4 +1,4 @@
-name: Test app
+name: S3 sync lds-docs
 
 on:
   workflow_dispatch:

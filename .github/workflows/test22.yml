@@ -1,4 +1,4 @@
-name: Test app
+name: Dev Deploy slack-reaction-api
 
 on:
   workflow_dispatch:

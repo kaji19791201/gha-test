@@ -1,4 +1,4 @@
-name: Test app
+name: Prod Deploy util-layer
 
 on:
   workflow_dispatch:

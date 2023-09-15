@@ -1,4 +1,4 @@
-name: Test app
+name: Dev Deploy data-cleaning
 
 on:
   workflow_dispatch:

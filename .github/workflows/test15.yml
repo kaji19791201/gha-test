@@ -1,4 +1,4 @@
-name: test3 dev deploy
+name: Prod Build And Deploy lupe-system
 
 on:
   workflow_dispatch:

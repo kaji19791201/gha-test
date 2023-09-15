@@ -1,4 +1,4 @@
-name: Test app
+name: Prod Deploy put-respondent
 
 on:
   workflow_dispatch:

@@ -1,4 +1,4 @@
-name: Test app
+name: Prod Deploy data-cleaning-for-hubspot
 
 on:
   workflow_dispatch:

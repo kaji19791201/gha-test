@@ -1,4 +1,4 @@
-name: Test app
+name: Dev Build And Deploy lupe-system
 
 on:
   workflow_dispatch:

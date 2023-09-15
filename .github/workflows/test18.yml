@@ -1,4 +1,4 @@
-name: Test app
+name: Dev Deploy put-enquete-cache
 
 on:
   workflow_dispatch:

@@ -1,4 +1,4 @@
-name: Test app
+name: Prod Deploy database-layer
 
 on:
   workflow_dispatch:
