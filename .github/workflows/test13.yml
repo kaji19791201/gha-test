@@ -1,4 +1,4 @@
-name: S3 sync lds-docs
+name: prod/lds-docs/deploy
 
 on:
   workflow_dispatch:

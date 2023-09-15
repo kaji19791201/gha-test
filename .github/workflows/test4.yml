@@ -1,4 +1,4 @@
-name: Prod Deploy data-cleaning
+name: prod/data-cleaning/deploy
 
 on:
   workflow_dispatch:

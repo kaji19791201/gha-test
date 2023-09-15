@@ -1,4 +1,4 @@
-name: Prod Deploy entry-booking
+name: prod/entry-booking/deploy
 
 on:
   workflow_dispatch:

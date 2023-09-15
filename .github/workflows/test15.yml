@@ -1,4 +1,4 @@
-name: Prod Build And Deploy lupe-system
+name: prod/lupe-system/deploy
 
 on:
   workflow_dispatch:

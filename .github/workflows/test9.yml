@@ -1,4 +1,4 @@
-name: Dev Deploy entry-booking
+name: dev/entry-booking/deploy
 
 on:
   workflow_dispatch:
