@@ -1,4 +1,4 @@
-name: database-layer / dev deploy
+name: '[database-layer] dev deploy'
 
 on:
   workflow_dispatch:

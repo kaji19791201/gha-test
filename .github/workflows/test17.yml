@@ -1,4 +1,4 @@
-name: project-api / prod deploy
+name: '[project-api] prod deploy'
 
 on:
   workflow_dispatch:

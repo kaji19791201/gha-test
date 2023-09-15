@@ -1,4 +1,4 @@
-name: lupe-system / dev deploy
+name: '[lupe-system] dev deploy'
 
 on:
   workflow_dispatch:

@@ -1,4 +1,4 @@
-name: lds-docs / prod deploy
+name: '[lds-docs] deploy'
 
 on:
   workflow_dispatch:

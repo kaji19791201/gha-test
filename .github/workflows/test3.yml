@@ -1,4 +1,4 @@
-name: data-cleaning / dev deploy 
+name: '[data-cleaning] dev deploy '
 
 on:
   workflow_dispatch:

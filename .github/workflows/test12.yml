@@ -1,4 +1,4 @@
-name: export-respondent-for-hubspot / prod deploy
+name: '[export-respondent-for-hubspot] prod deploy'
 
 on:
   workflow_dispatch:
