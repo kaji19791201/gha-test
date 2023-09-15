@@ -1,4 +1,4 @@
-name: _shared / deploy-lambda
+name: _shared / deploy-layer
 
 on:
   workflow_dispatch:
