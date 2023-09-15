@@ -1,4 +1,4 @@
-name: prod / util-layer / deploy
+name: util-layer / prod deploy
 
 on:
   workflow_dispatch:

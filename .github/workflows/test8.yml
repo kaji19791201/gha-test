@@ -1,4 +1,4 @@
-name: prod / database-layer / deploy
+name: database-layer / prod deploy
 
 on:
   workflow_dispatch:
