@@ -1,4 +1,4 @@
-name: app/test
+name: test / app
 
 on:
   workflow_dispatch:

@@ -1,4 +1,4 @@
-name: dev/project-api/deploy
+name: dev / project-api / deploy
 
 on:
   workflow_dispatch:
