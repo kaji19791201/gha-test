@@ -8,19 +8,19 @@ on:
         type: string
 
 jobs:
-  build1:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
       - name: Run a one-line script
-        run: echo {{ inputs.target }} - 1
+        run: echo ${{ inputs.target }} - 1
 
-  build2:
+  build_depencdences:
     needs: build1
     runs-on: ubuntu-latest
 
     steps:
       - name: Run a one-line script
-        run: echo {{ inputs.target }} - 2
+        run: echo ${{ inputs.target }} - 2

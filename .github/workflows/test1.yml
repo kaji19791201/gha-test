@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  call_shared:
+  call_deploy:
     uses: ./.github/workflows/_shared.yml
     with:
       target: hogehoge
