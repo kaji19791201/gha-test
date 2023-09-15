@@ -1,4 +1,4 @@
-name: '[_shared] deploy-layer'
+name: 'shared-deploy-layer'
 
 on:
   workflow_dispatch:
