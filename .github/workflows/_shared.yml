@@ -8,7 +8,7 @@ on:
         type: string
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,8 +17,8 @@ jobs:
       - name: Run a one-line script
         run: echo ${{ inputs.target }} - 1
 
-  build_depencdences:
-    needs: build1
+  deploy_depencdences:
+    needs: deploy
     runs-on: ubuntu-latest
 
     steps:
