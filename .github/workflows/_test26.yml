@@ -1,4 +1,4 @@
-name: 'shared-deploy-lambda'
+name: '[_shared] deploy-lambda'
 
 on:
   workflow_dispatch:
